@@ -4,6 +4,8 @@
 ### I'm a sophomore CS student @ the University of Utah with a minor in Advanced Financial Analysis 
 
 
+
+<!--
 ## 💼 Recent Projects
 
 
@@ -31,7 +33,11 @@
 ## More to come...
 ### project-glow 
 ### project-graphvisualizer
-<!--
+
+
+
+
+
 **carsonemery/carsonemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
