@@ -26,7 +26,7 @@
 
 
 ## 🔄 Currently Refactoring
-* Most of these projects were built in Cursor under extreme time pressure. Now I'm going back to properly learn the underlying systems and expand the code. Following along as I transform rapid prototypes into production-ready solutions.
+* Most of these projects were built in Cursor under extreme time pressure. Now I'm going back to properly learn the underlying systems and expand the code. Follow along as I transform rapid prototypes into production-ready solutions.
 
 
 <!--
