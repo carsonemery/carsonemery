@@ -21,6 +21,7 @@
   * **Churn reality check:** 70% of churned customers still operational on Google (company claimed 50% churned due to closure). Red flag - customers leaving for competitors, not closing down.
   * **Customer concentration risk:** Top MRR customers were high-end restaurants ($100+ tickets, valet), but only 5% of total base fit this profile.
   * **No churn predictors:** Churned vs active customers showed identical field distributions (3% had valet, same price ranges, etc.) - no clear pattern to prevent/predict churn.
+  * **Social Media Presence:** The best customers (highest MRR, longest tenure etc) had amazing social media presence, and we could use Instagram's algorithm to find "related profiles" - similar restaurants that fit the ICP of the target's best customers. If acquired, I could generate a completely custom list of prospects combining related profiles, Google Places fields, and proximity to other top customers.
 
 
 ## 🔄 Currently Refactoring
