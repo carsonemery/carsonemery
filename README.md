@@ -8,7 +8,7 @@
 
 
 ### 🌱 project-towel
-* During my internship at Pacific Avenue Capital Partners, I analyzed pricing strategy for Emerald Textiles (portfolio company, largest outsourced healthcare linen provider on west coast).
+* During my internship at Pacific Avenue Capital Partners (PE firm), I analyzed pricing strategy for Emerald Textiles (portfolio company, largest outsourced healthcare linen provider on west coast).
 * Used Python + Cursor to crunch 700,000+ rows of invoice data on a yield basis ($/pound).
 * Impact: Found 20¢+ yield differences between similar-sized customers. On millions of pounds, this meant $1.6M in missed EBITDA just from contracts renewing within a year. At a 10x multiple, that's $10M+ in Enterprise Value left on the table.
 
