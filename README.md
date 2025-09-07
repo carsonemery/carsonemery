@@ -17,13 +17,10 @@
   * **Customer concentration risk:** Top MRR customers were high-end restaurants ($100+ tickets, valet), but only 5% of total base fit this profile.
   * **No churn predictors:** Churned vs active customers showed identical field distributions (3% had valet, same price ranges, etc.) - no clear pattern to prevent/predict churn.
 
+
+## More to come...
 ### project-glow 
-
-
 ### Graph Data Structure Visualizer
-
-
-
 
 ## 🔄 Currently Refactoring
 * Most of these projects were built in Cursor under extreme time pressure. Now I'm going back to properly learn the underlying systems and expand the code. Follow along as I transform rapid prototypes into production-ready solutions.
