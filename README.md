@@ -12,7 +12,7 @@
 * While at Pacific Avenue, I helped diligence a live deal in exclusivity - a B2B software/hardware company serving restaurants.
 * Built a data pipeline using Google Places API + Instagram scraping (Apify) to pull qualitative data on their entire customer base.
 * First time using GCP/Google APIs - got it running same day, but my first run took 6+ hours for 9,000 records, so the next day I implemented async with 6 rotating API keys to process the list in under a minute.
-* Key findings:
+* Interesting findings:
   * **Churn reality check:** 70% of churned customers still operational on Google (company claimed 50% churned due to closure). Red flag - customers leaving for competitors, not closing down.
   * **Customer concentration risk:** Top MRR customers were high-end restaurants ($100+ tickets, valet), but only 5% of total base fit this profile.
   * **No churn predictors:** Churned vs active customers showed identical field distributions (3% had valet, same price ranges, etc.) - no clear pattern to prevent/predict churn.
