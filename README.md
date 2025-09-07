@@ -23,15 +23,13 @@
   * **No churn predictors:** Churned vs active customers showed identical field distributions (3% had valet, same price ranges, etc.) - no clear pattern to prevent/predict churn.
 
 
-## More to come...
-### project-glow 
-### Graph Data Structure Visualizer
-
-
 ## 🔄 Currently Refactoring
 * Most of these projects were built in Cursor under extreme time pressure. Now I'm going back to properly learn the underlying systems and expand the code. Follow along as I transform rapid prototypes into production-ready solutions.
 
 
+## More to come...
+### project-glow 
+### Graph Data Structure Visualizer
 <!--
 **carsonemery/carsonemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
