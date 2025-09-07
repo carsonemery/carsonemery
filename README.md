@@ -1,14 +1,19 @@
 ## Hi, I'm Carson👋
 
+
 ### I'm a sophomore CS student @ the University of Utah with a minor in Advanced Financial Analysis 
 
+
 ## 💼 Recent Projects
-### project-towel
+
+
+### 🌱 project-towel
 * During my internship at Pacific Avenue Capital Partners, I analyzed pricing strategy for Emerald Textiles (portfolio company, largest outsourced healthcare linen provider on west coast).
 * Used Python + Cursor to crunch 700,000+ rows of invoice data on a yield basis ($/pound).
 * Impact: Found 20¢+ yield differences between similar-sized customers. On millions of pounds, this meant $1.6M in missed EBITDA just from contracts renewing within a year. At a 10x multiple, that's $10M+ in Enterprise Value left on the table.
 
-### project-treat
+
+### ⚡project-treat
 * While at Pacific Avenue, I helped diligence a live deal in exclusivity - a B2B software/hardware company serving restaurants.
 * Built a data pipeline using Google Places API + Instagram scraping (Apify) to pull qualitative data on their entire customer base.
 * First time using GCP/Google APIs - got it running same day, but my first run took 6+ hours for 9,000 records, so the next day I implemented async with 6 rotating API keys to process the list in under a minute.
@@ -21,6 +26,7 @@
 ## More to come...
 ### project-glow 
 ### Graph Data Structure Visualizer
+
 
 ## 🔄 Currently Refactoring
 * Most of these projects were built in Cursor under extreme time pressure. Now I'm going back to properly learn the underlying systems and expand the code. Follow along as I transform rapid prototypes into production-ready solutions.
