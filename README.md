@@ -29,7 +29,7 @@
 
 ## More to come...
 ### project-glow 
-### Graph Data Structure Visualizer
+### project-graphvisualizer
 <!--
 **carsonemery/carsonemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
