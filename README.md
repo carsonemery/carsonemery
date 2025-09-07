@@ -1,7 +1,6 @@
 ## Hi, I'm Carson👋
 
 ### I'm a sophomore CS student @ the University of Utah with a minor in Advanced Financial Analysis 
-#### I love solving both challenging and real problems for business and users through code
 
 ## 💼 Recent Projects
 ### project-towel
@@ -34,6 +33,9 @@
 **carsonemery/carsonemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+#### I love solving both challenging and real problems for business and users through code
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
