@@ -1,6 +1,7 @@
 ## Hi, I'm Carson👋
 
 ### I'm a sophomore CS student @ the University of Utah with a minor in Advanced Financial Analysis
+### I love solving both challenging and real problems for business and users through code
 
 ## 💼 Recent Projects
 ### project-towel
