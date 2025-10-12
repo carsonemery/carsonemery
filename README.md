@@ -1,7 +1,7 @@
 ## Hi, I'm Carson👋
 
 
-### I'm a sophomore Computer Science student @ the University of Utah with a minor in Advanced Financial Analysis 
+### I'm a sophomore Computer Science student @ the University of Utah.
 
 
 
