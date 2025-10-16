@@ -1,7 +1,7 @@
 ## Hi, I'm Carson👋
 
 
-### I'm a sophomore Computer Science student @ the University of Utah.
+### I'm a Computer Science student @ the University of Utah.
 
 
 
